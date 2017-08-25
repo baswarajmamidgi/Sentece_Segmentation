@@ -1,0 +1,7 @@
+This program illustrates some of the main features of Python. First, whitespace is used
+to nest lines of code; thus the line starting with if falls inside the scope of the previous
+line starting with for ; this ensures that the ing test is performed for each word. Second,
+Python is object-oriented; each variable is an entity that has certain defined attributes
+and methods. For example, the value of the variable line is more than a sequence of
+characters. It is a string object that has a “method” (or operation) called split() that
+
